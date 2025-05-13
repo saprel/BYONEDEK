@@ -3,8 +3,8 @@
     <title>Lemah sekali</title>
   </head>
   <body>
-   <div> <a href="https://jarwadi.me/2012/02/28/memotret-orang-gila/" target="_blank">
-      <button>Klik disini untuk lihat orang ganteng</button> <div>
+ <a href="https://jarwadi.me/2012/02/28/memotret-orang-gila/" target="_blank">
+      <button>Klik disini untuk lihat orang ganteng</button>
       <h1>Selamat Datang Kawan - Kawan BANGSAT...</h1>
     </a>
     <p>Ini adalah contoh halaman HTML pertama saya ya telorrrrrrrrrr.</p>
