@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Lemah sekali</title>
+    <title>Coba-Coba Aja Ini Mah</title>
   </head>
   <body>
 <h1>Selamat Datang Kawan - Kawan BANGSAT...</h1>
