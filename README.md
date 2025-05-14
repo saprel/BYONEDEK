@@ -13,8 +13,6 @@
    <p style="color: blue; font-size: 16px; line-height: 1.6;">
 Terima kasih atas partisipasinya untuk membuka link yang saya berikan ya:)
 </p>
-<img src="ganteng.jpg"
-    width="300px" height="300px">
 <div style="width: 50%; margin: auto; text-align: center;">
   <p>&copy;2025 Saprel Aja Bre. All rights reserved.</p>
 </div>
