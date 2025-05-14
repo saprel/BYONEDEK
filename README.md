@@ -14,6 +14,7 @@
 Terima kasih atas partisipasinya untuk membuka link yang saya berikan ya:)
 </p>
 <div style="width: 50%; margin: auto; text-align: center;">
+<img src="photo_2025-04-29_12-55-39.jpg" alt="Mirip kamu">
   <p>&copy;2025 Saprel Aja Bre. All rights reserved.</p>
 </div>
   </body>
