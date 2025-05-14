@@ -8,7 +8,7 @@
       <button>JANGAN DI TEKAN</button>  </a>
 <h3>Wah , Setelah Kamu Klik Jadi Melihat Kembaran Diri Sendiri Ya</h3>
  <a href="https://id.wikipedia.org/wiki/Medan_Tembung,_Medan" target="_blank"> 
-  <button>KLIK DSINI</button> </a>
+  <button>KLIK DISINI</button> </a>
 <h3> Klik Tombol Diatas Jika Ingin Melihat Kota Terindah </h3>
    <p style="color: blue; font-size: 16px; line-height: 1.6;">
 Terima kasih atas partisipasinya untuk membuka link yang saya berikan ya:)
