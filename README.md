@@ -3,7 +3,7 @@
     <title>Coba-Coba Aja Ini Mah</title>
   </head>
   <body>
-<h1>Selamat Datang Kawan - Kawan BANGSAT...</h1>
+<h1>Welcome to Jungle Para Bangsat</h1>
  <a href="https://id.pinterest.com/pin/529032287499140281/" target="_blank">
       <button>JANGAN DI TEKAN</button>  </a>
 <h3>Wah , Setelah Kamu Klik Jadi Melihat Kembaran Diri Sendiri Ya</h3>
@@ -13,6 +13,7 @@
    <p style="color: blue; font-size: 16px; line-height: 1.6;">
 Terima kasih atas partisipasinya untuk membuka link yang saya berikan ya:)
 </p>
+
 <div style="width: 50%; margin: auto; text-align: center;">
   <p>&copy;2025 Saprel Aja Bre. All rights reserved.</p>
 </div>
