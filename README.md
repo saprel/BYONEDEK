@@ -20,8 +20,8 @@ Terima kasih atas partisipasinya untuk membuka link yang saya berikan ya:)
 </p>
 
 <p align="center">
-  <strong>Nama:</strong> Hendry Dugong <br />
-  <strong>Bounty:</strong> 💰 1.000.000.000 <br />
+  <strong>Nama:</strong> Hendry Ganteng <br />
+  <strong>Hadiah:</strong> 💰 1.000.000.000 <br />
   <strong>Status:</strong> Buronan Makan
 </p>
 <div style="width: 50%; margin: auto; text-align: center;">
