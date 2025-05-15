@@ -50,6 +50,5 @@ Terima kasih atas partisipasinya untuk membuka link yang saya berikan ya:)
  <footer>
 ©2025 Saprel Aja Bre. All rights reserved.
 </footer>
-</div>
   </body>
 </html>
