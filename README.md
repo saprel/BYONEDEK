@@ -12,7 +12,6 @@
  <a href="https://id.pinterest.com/pin/529032287499140281/" target="_blank">
       <button>JANGAN DI TEKAN</button>  </a>
 <h3> Nah Kan Apa Di Bilang , Sudah Di Beritahu Jangan Di Klik juga <h3>
-</div>
 <h3 align="center"> Udah Udah Mending Lanjut Scroll Ke Bawah</h3>
 
 <br><br>
