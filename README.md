@@ -52,9 +52,7 @@ Terima kasih atas partisipasinya untuk membuka link yang saya berikan ya:)
 </div>
 <br>
 <div align="center">
- <footer>
-©2025 Saprel Aja Bre. All rights reserved.
-</footer>
+<p>&copy; 2025 Turuuuuuu.All rights reserved.</p>
 </div>
   </body>
 </html>
