@@ -6,7 +6,6 @@
 <div align="center">
 <h1>Selamat Datang Teman Teman Ku Sayang</h1>
 <br><br>
-</div>
 <div align="center">
 <h2> Udah lanjut Aja Scroll Ke Bawah , Jangan Di Tekan Tombol Yang Ada Di Bawah Ini</h2>
  <a href="https://id.pinterest.com/pin/529032287499140281/" target="_blank">
