@@ -53,5 +53,3 @@ Terima kasih atas partisipasinya untuk membuka link yang saya berikan ya:)
 <p align="center">
 &copy; 2025 Turuuuuuu.All rights reserved.</p>
 
-  </body>
-</html>
