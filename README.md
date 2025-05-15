@@ -41,7 +41,7 @@
 <br>
   <strong>Nama:</strong> Willy Sumargo <br />
   <strong>Hadiah:</strong> 💰 1.000.000 <br />
-  <strong>Status:</strong> Buronan Gadis
+  <strong>Status:</strong> PEDOFIL
 </details> 
 </div>
 <br>
