@@ -13,7 +13,17 @@
    <p style="color: blue; font-size: 16px; line-height: 1.6;">
 Terima kasih atas partisipasinya untuk membuka link yang saya berikan ya:)
 </p>
+    <h1 align="center">🛑 WANTED 🛑</h1>
 
+<p align="center">
+  <img src="hendry2.png" alt="WANTED Poster" width="300" />
+</p>
+
+<p align="center">
+  <strong>Nama:</strong> Hendry Dugong <br />
+  <strong>Bounty:</strong> 💰 1.000.000.000 <br />
+  <strong>Status:</strong> Buronan Makan
+</p>
 <div style="width: 50%; margin: auto; text-align: center;">
   <p>&copy;2025 Saprel Aja Bre. All rights reserved.</p>
 </div>
