@@ -38,7 +38,7 @@
 <details>
 <summary> Info klik disini</summary>
 <br>
-  <strong>Nama:</strong> Willy Sumargo <br />
+  <strong>Nama:</strong> Willy <br />
   <strong>Hadiah:</strong> 💰 1.000.000 <br />
   <strong>Status:</strong> PEDOFIL
 </details> 
