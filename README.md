@@ -24,7 +24,6 @@ Terima kasih atas partisipasinya untuk membuka link yang saya berikan ya:)
   <strong>Nama:</strong> Hendry Ganteng <br />
   <strong>Hadiah:</strong> 💰 1.000.000.000 <br />
   <strong>Status:</strong> Buronan Makan
-</p>
 </details>
 </div>
 <div style="width: 50%; margin: auto; text-align: center;">
