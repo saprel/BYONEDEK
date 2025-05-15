@@ -40,7 +40,7 @@
   <strong>Hadiah:</strong> 💰 1.000.000 <br />
   <strong>Status:</strong> Buronan Gadis
 </details> 
-<br><br>
+<br>
  <p style="color: blue; font-size: 16px; line-height: 1.6;">
 Terima kasih atas partisipasinya untuk membuka link yang saya berikan ya:)
 </p>
