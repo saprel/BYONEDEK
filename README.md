@@ -24,6 +24,9 @@ Terima kasih atas partisipasinya untuk membuka link yang saya berikan ya:)
   <strong>Bounty:</strong> 💰 1.000.000.000 <br />
   <strong>Status:</strong> Buronan Makan
 </p>
+
+ <img src="hendry.jpg"
+    width="200px" height="200px">
 <div style="width: 50%; margin: auto; text-align: center;">
   <p>&copy;2025 Saprel Aja Bre. All rights reserved.</p>
 </div>
