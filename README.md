@@ -32,6 +32,7 @@
 
 <p align="center">
   <img src="Willy.png" alt="WANTED Poster" width="300" />
+</p>
 <div align="center"> 
 <details>
 <summary> Info klik disini</summary>
@@ -44,7 +45,7 @@
  <p style="color: blue; font-size: 16px; line-height: 1.6;">
 Terima kasih atas partisipasinya untuk membuka link yang saya berikan ya:)
 </p>
-<br>
+<br><br>
 <div align="center">
  <footer>
 ©2025 Saprel Aja Bre. All rights reserved.
