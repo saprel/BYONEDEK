@@ -26,7 +26,7 @@ Terima kasih atas partisipasinya untuk membuka link yang saya berikan ya:)
   <strong>Hadiah:</strong> 💰 1.000.000.000 <br />
   <strong>Status:</strong> Buronan Makan
 </details>
-<br><br>
+<br>
 </div>
 <div align="center">
  <footer>
