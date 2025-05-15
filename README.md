@@ -45,14 +45,13 @@
 </details> 
 </div>
 <br>
-<div align="center">
- <p style="color: blue; font-size: 16px; line-height: 1.6;">
+ <p align="center" style="color: blue; font-size: 16px; line-height: 1.6;">
 Terima kasih atas partisipasinya untuk membuka link yang saya berikan ya:)
 </p>
-</div>
 <br>
-<div align="center">
-<p>&copy; 2025 Turuuuuuu.All rights reserved.</p>
-</div>
+
+<p align="center">
+&copy; 2025 Turuuuuuu.All rights reserved.</p>
+
   </body>
 </html>
