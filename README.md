@@ -13,7 +13,10 @@
    <p style="color: blue; font-size: 16px; line-height: 1.6;">
 Terima kasih atas partisipasinya untuk membuka link yang saya berikan ya:)
 </p>
-
+ <img src="hendry.jpg"
+    width="200px" height="200px">
+<h1>WANTED</h1>
+<p> BILA MENEMUKAN NYA DAPAT IMBALAN 1000$ </p>
 <div style="width: 50%; margin: auto; text-align: center;">
   <p>&copy;2025 Saprel Aja Bre. All rights reserved.</p>
 </div>
