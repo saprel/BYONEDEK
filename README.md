@@ -18,12 +18,15 @@ Terima kasih atas partisipasinya untuk membuka link yang saya berikan ya:)
 <p align="center">
   <img src="hendry2.png" alt="WANTED Poster" width="300" />
 </p>
-
-<p align="center">
+<div align="center">
+<details>
+<summary> Info klik disini</summary>
   <strong>Nama:</strong> Hendry Ganteng <br />
   <strong>Hadiah:</strong> 💰 1.000.000.000 <br />
   <strong>Status:</strong> Buronan Makan
 </p>
+</details>
+</div>
 <div style="width: 50%; margin: auto; text-align: center;">
   <p>&copy;2025 Saprel Aja Bre. All rights reserved.</p>
 </div>
