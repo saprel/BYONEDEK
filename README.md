@@ -49,7 +49,7 @@
 </style>
   </head>
   <body>
-<h1 align="center">FOTO KELPIN SUTRISNO TAIK</h1>
+<h1 align="center">FOTO KELPIN SUTRISNO GANTENG BANGET</h1>
 <p align="center">
   <img src="kelpin.jpg" alt="WANTED Poster" width="500" />
 </p>
