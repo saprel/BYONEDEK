@@ -13,10 +13,8 @@
       <button>JANGAN DI TEKAN</button>  </a>
 <h3> Nah Kan Apa Di Bilang , Sudah Di Beritahu Jangan Di Klik juga <h3>
 <h3 align="center"> Udah Udah Mending Lanjut Scroll Ke Bawah</h3>
-
 <br><br>
     <h1 align="center">🛑 WANTED 🛑</h1>
-
 <p align="center">
   <img src="hendry2.png" alt="WANTED Poster" width="300" />
 </p>
@@ -61,7 +59,6 @@
 Terima kasih atas partisipasinya untuk membuka link yang saya berikan ya:)
 </p>
 <br>
-
 <p align="center">
 &copy; 2025 Turuuuuuu.All rights reserved.</p>
 
