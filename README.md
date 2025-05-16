@@ -14,7 +14,9 @@
 <h3> Nah Kan Apa Di Bilang , Sudah Di Beritahu Jangan Di Klik juga <h3>
 <h3 align="center"> Udah Udah Mending Lanjut Scroll Ke Bawah</h3>
 <br><br>
-    <h1 align="center">🛑 WANTED 🛑</h1>
+<details>
+<summary> Daftar List Wanted </summary>
+  <h1 align="center">🛑 WANTED 🛑</h1>
 <p align="center">
   <img src="hendry2.png" alt="WANTED Poster" width="300" />
 </p>
@@ -66,6 +68,7 @@
   <strong>Status:</strong> Buronan Seak
 </details> 
 </div>
+</details>
 <br>
  <p align="center" style="color: blue; font-size: 16px; line-height: 1.6;">
 Terima kasih atas partisipasinya untuk membuka link yang saya berikan ya:)
