@@ -1,6 +1,52 @@
 <html>
   <head>
-    <title>Coba-Coba Aja Ini Mah</title>
+   <style>
+  body {
+    background-color: #f0f2f5;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+  h1, h2, h3 {
+    color: #222;
+  }
+  button {
+    background-color: crimson;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+  }
+  button:hover {
+    background-color: darkred;
+  }
+  details summary {
+    font-weight: bold;
+    cursor: pointer;
+    padding: 8px;
+    background-color: #eee;
+    border-radius: 5px;
+    margin: 10px auto;
+    width: fit-content;
+  }
+  details[open] summary {
+    background-color: #ccc;
+  }
+  img {
+    border: 4px solid #444;
+    border-radius: 10px;
+  }
+  footer {
+    margin-top: 60px;
+    text-align: center;
+    color: gray;
+    font-size: 14px;
+  }
+</style>
   </head>
   <body>
 <div align="center">
