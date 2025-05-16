@@ -49,10 +49,6 @@
 </style>
   </head>
   <body>
-<h1 align="center">FOTO KELPIN SUTRISNO GANTENG BANGET</h1>
-<p align="center">
-  <img src="kelpin.jpg" alt="WANTED Poster" width="500" />
-</p>
 <div align="center">
   <h1>✨ Selamat Datang di halaman yang keren ini ✨</h1>
 </div>
