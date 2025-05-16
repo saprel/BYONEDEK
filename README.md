@@ -40,7 +40,6 @@
   <strong>Status:</strong> PEDOFIL
 </details> 
 </div>
-</div>
  <h1 align="center">🛑 WANTED 3 🛑</h1>
 <p align="center">
   <img src="kiki.png" alt="WANTED Poster" width="300" />
@@ -52,6 +51,19 @@
   <strong>Nama:</strong> Kiki Pratama <br />
   <strong>Hadiah:</strong> 💰 10.000.000 <br />
   <strong>Status:</strong> Buronan Anomali
+</details> 
+</div>
+ <h1 align="center">🛑 WANTED 4 🛑</h1>
+<p align="center">
+  <img src="Bob1.png" alt="WANTED Poster" width="300" />
+</p>
+<div align="center"> 
+<details>
+<summary> Info klik disini</summary>
+<br>
+  <strong>Nama:</strong> Irpan Alias BOB <br />
+  <strong>Hadiah:</strong> 💰 100.000.000.000.000 <br />
+  <strong>Status:</strong> Buronan Seak
 </details> 
 </div>
 <br>
