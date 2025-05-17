@@ -60,6 +60,7 @@
 <h3> Nah Kan Apa Di Bilang , Sudah Di Beritahu Jangan Di Klik juga <h3>
 <h3 align="center"> Udah Udah Mending Lanjut Scroll Ke Bawah</h3>
 <br><br>
+<h2 align="center">Daftar Buronan Meresahkan</h2>
 <details>
 <summary> Daftar List Wanted </summary>
   <h1 align="center">🛑 WANTED 🛑</h1>
@@ -182,7 +183,7 @@
   <img src="Miss23.png" alt="Miss Universe" width="300" />
 <h3 align="center">Michelle Hendry</h3>
 <br>
- <h1 align="center">✨ Miss Indonesia 2023 ✨</h1>
+ <h1 align="center">✨ Miss Indonesia 2022 ✨</h1>
 <p align="center">
   <img src="Miss22.png" alt="Miss Universe" width="300" />
 <h3 align="center">Carla Yusuf Islam</h3>
