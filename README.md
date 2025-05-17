@@ -4,7 +4,7 @@
   body {
     background-color: #f0f2f5;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: #333;
+    color: #393;
     margin: 0;
     padding: 0;
   }
