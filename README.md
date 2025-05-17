@@ -142,6 +142,7 @@
 </div>
 </details>
 <h2 align="center"> Daftar Miss Infonesia</h2>
+<div align="center">
 <table border="1" cellspacing="0" cellpadding="8">
   <tr>
     <th>Tahun</th>
@@ -164,6 +165,7 @@
     <td>Jabodetabek</td>
   </tr>
 </table>
+</div>
 <details>
 <summary>Info Miss Indonesia</summary>
  <h1 align="center">✨ Miss Indonesia 2024 ✨</h1>
