@@ -1,16 +1,13 @@
 <html>
   <head>
    <style>
- body {
-      background-image: url('background.jpg');
-      background-size: cover;
-      background-position: center;
-      background-repeat: no-repeat;
-      color: white;
-      font-family: Arial, sans-serif;
-      text-align: center;
-      height: 500vh;
-    }
+body {
+  background: linear-gradient(to right, #1e3c72, #2a5298);
+  font-family: 'Segoe UI', sans-serif;
+  color: white;
+  text-align: center;
+  padding: 40px;
+}
   h1, h2, h3 {
     color: #222;
   }
