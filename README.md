@@ -152,12 +152,12 @@
     </tr>
     <tr>
       <td>2024</td>
-      <td><a href="#">Vanessa Willy</a></td>
+      <td><a href="https://github.com/saprel/Percobaan/blob/main/Miss24.png">Vanessa Willy</a></td>
       <td>Rantau Parapat</td>
     </tr>
     <tr>
       <td>2023</td>
-      <td><a href="#">Michelle Hendry</a></td>
+      <td><a href="https://github.com/saprel/Percobaan/blob/main/Miss23.png">Michelle Hendry</a></td>
       <td>Medan Wahidin</td>
     </tr>
     <tr>
