@@ -142,29 +142,32 @@
 </div>
 </details>
 <h2 align="center">Daftar Miss Indonesia</h2>
-
-<div align="center">
-  <table border="1" style="border-collapse: collapse; width: 60%; background-color: #f9f9f9;">
-    <tr>
-      <th>Tahun</th>
-      <th>Nama</th>
-      <th>Asal</th>
-    </tr>
-    <tr>
-      <td>2024</td>
-      <td><a href="https://github.com/saprel/Percobaan/blob/main/Miss24.png">Vanessa Willy</a></td>
-      <td>Rantau Parapat</td>
-    </tr>
-    <tr>
-      <td>2023</td>
-      <td><a href="https://github.com/saprel/Percobaan/blob/main/Miss23.png">Michelle Hendry</a></td>
-      <td>Medan Wahidin</td>
-    </tr>
-    <tr>
-      <td>2022</td>
-      <td><a href="#">Carla Yusuf Islam</a></td>
-      <td>Jabodetabek</td>
-    </tr>
+<div style="display: flex; justify-content: center;">
+  <table border="1" style="border-collapse: collapse; background-color: #f9f9f9; table-layout: fixed; width: 80%; max-width: 500px;">
+    <thead>
+      <tr>
+        <th>Tahun</th>
+        <th>Nama</th>
+        <th>Asal</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>2024</td>
+        <td><a href="#">Vanessa Willy</a></td>
+        <td>Rantau Parapat</td>
+      </tr>
+      <tr>
+        <td>2023</td>
+        <td><a href="#">Michelle Hendry</a></td>
+        <td>Medan Wahidin</td>
+      </tr>
+      <tr>
+        <td>2022</td>
+        <td><a href="#">Carla Yusuf Islam</a></td>
+        <td>Jabodetabek</td>
+      </tr>
+    </tbody>
   </table>
 </div>
 <details>
