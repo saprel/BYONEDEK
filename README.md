@@ -174,17 +174,17 @@
  <summary>Info Miss Indonesia</summary>
  <h1 align="center">✨ Miss Indonesia 2024 ✨</h1>
 <p align="center">
-  <img src="Miss24.png" alt="WANTED Poster" width="300" />
+  <img src="Miss24.png" alt="Miss Universe" width="300" />
 <h3 align="center">Vanessa Willy</h3>
 <br>
  <h1 align="center">✨ Miss Indonesia 2023 ✨</h1>
 <p align="center">
-  <img src="Miss23.png" alt="WANTED Poster" width="300" />
+  <img src="Miss23.png" alt="Miss Universe" width="300" />
 <h3 align="center">Michelle Hendry</h3>
 <br>
  <h1 align="center">✨ Miss Indonesia 2023 ✨</h1>
 <p align="center">
-  <img src="Miss22.png" alt="WANTED Poster" width="300" />
+  <img src="Miss22.png" alt="Miss Universe" width="300" />
 <h3 align="center">Carla Yusuf Islam</h3>
 <br>
 </details>
