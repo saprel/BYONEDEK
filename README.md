@@ -114,6 +114,19 @@
   <strong>Status:</strong> Buronan Seak
 </details> 
 </div>
+ <h1 align="center">🛑 WANTED 5 🛑</h1>
+<p align="center">
+  <img src="kak ros.png" alt="WANTED Poster" width="300" />
+</p>
+<div align="center"> 
+<details>
+<summary> Info klik disini</summary>
+<br>
+  <strong>Nama:</strong> Mba Ros <br />
+  <strong>Hadiah:</strong> 💰 100.000.000 <br />
+  <strong>Status:</strong> Simanis Jembatan Ancol
+</details> 
+</div>
 </details>
 <br>
  <p align="center" style="color: blue; font-size: 16px; line-height: 1.6;">
