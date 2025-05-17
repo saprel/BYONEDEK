@@ -154,17 +154,17 @@
     <tbody>
       <tr>
         <td>2024</td>
-        <td><a href="#">Vanessa Willy</a></td>
+        <td><a href="Miss24.png">Vanessa Willy</a></td>
         <td>Rantau Parapat</td>
       </tr>
       <tr>
         <td>2023</td>
-        <td><a href="#">Michelle Hendry</a></td>
+        <td><a href="Miss23.png">Michelle Hendry</a></td>
         <td>Medan Wahidin</td>
       </tr>
       <tr>
         <td>2022</td>
-        <td><a href="#">Carla Yusuf Islam</a></td>
+        <td><a href="Miss22.png">Carla Yusuf Islam</a></td>
         <td>Jabodetabek</td>
       </tr>
     </tbody>
