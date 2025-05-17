@@ -181,6 +181,11 @@
 <p align="center">
   <img src="Miss23.png" alt="WANTED Poster" width="300" />
 <h3 align="center">Michelle Hendry</h3>
+<br>
+ <h1 align="center">✨ Miss Indonesia 2023 ✨</h1>
+<p align="center">
+  <img src="Miss22.png" alt="WANTED Poster" width="300" />
+<h3 align="center">Carla Yusuf Islam</h3>
 </details>
 <br>
  <p align="center" style="color: blue; font-size: 16px; line-height: 1.6;">
