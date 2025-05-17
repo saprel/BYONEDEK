@@ -1,13 +1,13 @@
 <html>
   <head>
    <style>
-body {
-  background: linear-gradient(to right, #1e3c72, #2a5298);
-  font-family: 'Segoe UI', sans-serif;
-  color: white;
-  text-align: center;
-  padding: 40px;
-}
+  body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #fefae0;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
   h1, h2, h3 {
     color: #222;
   }
