@@ -1,13 +1,16 @@
 <html>
   <head>
    <style>
-  body {
-    background-color: #f0f2f5;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: #393;
-    margin: 0;
-    padding: 0;
-  }
+ body {
+      background-image: url('background.jpg');
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      color: white;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      height: 100vh;
+    }
   h1, h2, h3 {
     color: #222;
   }
