@@ -141,6 +141,38 @@
 </details> 
 </div>
 </details>
+<table border="1" cellspacing="0" cellpadding="8">
+  <tr>
+    <th>Tahun</th>
+    <th>Nama</th>
+    <th>Asal</th>
+  </tr>
+  <tr>
+    <td>2024</td>
+    <td>Vanessa Willy</td>
+    <td>Rantau Parapat</td>
+  </tr>
+  <tr>
+    <td>2023</td>
+    <td>Michelle Hendry</td>
+    <td>Medan Wahidin</td>
+  </tr>
+  <tr>
+    <td>2022</td>
+    <td>Carla Yusuf Islam</td>
+    <td>Jabodetabek</td>
+  </tr>
+</table>
+<details>
+<summary>Info Miss Indonesia</summary>
+ <h1 align="center">✨ Miss Indonesia 2024 ✨</h1>
+<p align="center">
+  <img src="Miss24.png" alt="WANTED Poster" width="300" />
+<br>
+ <h1 align="center">✨ Miss Indonesia 2023 ✨</h1>
+<p align="center">
+  <img src="Miss23.png" alt="WANTED Poster" width="300" />
+</details>
 <br>
  <p align="center" style="color: blue; font-size: 16px; line-height: 1.6;">
 Terima kasih atas partisipasinya untuk membuka link yang saya berikan ya:)
