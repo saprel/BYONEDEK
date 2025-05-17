@@ -141,30 +141,31 @@
 </details> 
 </div>
 </details>
-<h2 align="center"> Daftar Miss Infonesia</h2>
+<h2 align="center">Daftar Miss Indonesia</h2>
+
 <div align="center">
-<table border="1" cellspacing="0" cellpadding="8">
-  <tr>
-    <th>Tahun</th>
-    <th>Nama</th>
-    <th>Asal</th>
-  </tr>
-  <tr>
-    <td>2024</td>
-    <td>Vanessa Willy</td>
-    <td>Rantau Parapat</td>
-  </tr>
-  <tr>
-    <td>2023</td>
-    <td>Michelle Hendry</td>
-    <td>Medan Wahidin</td>
-  </tr>
-  <tr>
-    <td>2022</td>
-    <td>Carla Yusuf Islam</td>
-    <td>Jabodetabek</td>
-  </tr>
-</table>
+  <table border="1" style="border-collapse: collapse; width: 60%; background-color: #f9f9f9;">
+    <tr>
+      <th>Tahun</th>
+      <th>Nama</th>
+      <th>Asal</th>
+    </tr>
+    <tr>
+      <td>2024</td>
+      <td><a href="#">Vanessa Willy</a></td>
+      <td>Rantau Parapat</td>
+    </tr>
+    <tr>
+      <td>2023</td>
+      <td><a href="#">Michelle Hendry</a></td>
+      <td>Medan Wahidin</td>
+    </tr>
+    <tr>
+      <td>2022</td>
+      <td><a href="#">Carla Yusuf Islam</a></td>
+      <td>Jabodetabek</td>
+    </tr>
+  </table>
 </div>
 <details>
 <summary>Info Miss Indonesia</summary>
