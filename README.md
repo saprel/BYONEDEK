@@ -127,6 +127,19 @@
   <strong>Status:</strong> Simanis Jembatan Ancol
 </details> 
 </div>
+ <h1 align="center">🛑 WANTED 6 🛑</h1>
+<p align="center">
+  <img src="ciw.png" alt="WANTED Poster" width="300" />
+</p>
+<div align="center"> 
+<details>
+<summary> Info klik disini</summary>
+<br>
+  <strong>Nama:</strong> Chiumi <br />
+  <strong>Hadiah:</strong> 💰 500.000.000 <br />
+  <strong>Status:</strong> Pemakan Curut
+</details> 
+</div>
 </details>
 <br>
  <p align="center" style="color: blue; font-size: 16px; line-height: 1.6;">
