@@ -171,7 +171,7 @@
   </table>
 </div>
 <details>
-<summary>Info Miss Indonesia</summary>
+ <summary>Info Miss Indonesia</summary>
  <h1 align="center">✨ Miss Indonesia 2024 ✨</h1>
 <p align="center">
   <img src="Miss24.png" alt="WANTED Poster" width="300" />
@@ -186,6 +186,7 @@
 <p align="center">
   <img src="Miss22.png" alt="WANTED Poster" width="300" />
 <h3 align="center">Carla Yusuf Islam</h3>
+<br>
 </details>
 <br>
  <p align="center" style="color: blue; font-size: 16px; line-height: 1.6;">
