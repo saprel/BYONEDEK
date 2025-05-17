@@ -9,7 +9,7 @@
       color: white;
       font-family: Arial, sans-serif;
       text-align: center;
-      height: 100vh;
+      height: 500vh;
     }
   h1, h2, h3 {
     color: #222;
