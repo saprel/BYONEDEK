@@ -1,7 +1,7 @@
 <html>
   <head>
    <style>
- h1:first-of-type { display: none; } </h1>
+ h1:first-of-type { display: none; }
   body {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       background: #fefae0;
@@ -53,14 +53,14 @@
 <div align="center">
   <h1>✨ Selamat Datang di halaman yang keren ini ✨</h1>
 </div>
-<br><br>
+<br>
 <div align="center">
 <h2> Udah lanjut Aja Scroll Ke Bawah , Jangan Di Tekan Tombol Yang Ada Di Bawah Ini</h2>
  <a href="https://id.pinterest.com/pin/529032287499140281/" target="_blank">
       <button>JANGAN DI TEKAN</button>  </a>
 <h3> Nah Kan Apa Di Bilang , Sudah Di Beritahu Jangan Di Klik juga <h3>
 <h3 align="center"> Udah Udah Mending Lanjut Scroll Ke Bawah</h3>
-<br><br>
+<br>
 <h2 align="center">Daftar Buronan Meresahkan</h2>
 <details>
 <summary> Daftar List Wanted </summary>
