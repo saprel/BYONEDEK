@@ -1,7 +1,7 @@
 <html>
   <head>
    <style>
- h1:first-of-type { display: none; }
+ h1:first-of-type { display: none; } </h1>
   body {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       background: #fefae0;
