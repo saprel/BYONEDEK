@@ -174,9 +174,9 @@
         <td>Sundanese</td>
       </tr>
       <tr>
-        <td>2021</td>
+        <td>2020</td>
         <td><a href="Miss20.png">Jasmine Ade Rosita</a></td>
-        <td>Sundanese</td>
+        <td>Jawa Tengah</td>
       </tr>
     </tbody>
   </table>
