@@ -1,6 +1,7 @@
 <html>
   <head>
    <style>
+ h1:first-of-type { display: none; }
   body {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       background: #fefae0;
