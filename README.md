@@ -173,6 +173,11 @@
         <td><a href="Miss21.png">Victoria Irpan Setiawan</a></td>
         <td>Sundanese</td>
       </tr>
+      <tr>
+        <td>2021</td>
+        <td><a href="Miss20.png">Jasmine Ade Rosita</a></td>
+        <td>Sundanese</td>
+      </tr>
     </tbody>
   </table>
 </div>
@@ -197,6 +202,11 @@
 <p align="center">
   <img src="Miss21.png" alt="Miss Universe" width="300" />
 <h3 align="center">Victoria Irpan Setiawan</h3>
+<br>
+ <h1 align="center">✨ Miss Indonesia 2020 ✨</h1>
+<p align="center">
+  <img src="Miss20.png" alt="Miss Universe" width="300" />
+<h3 align="center">Jasmine Ade Rosita</h3>
 </details>
 <br>
  <p align="center" style="color: blue; font-size: 16px; line-height: 1.6;">
